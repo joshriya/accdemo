@@ -1,9 +1,9 @@
 Hello
 hi
 add 1 more
-<<<<<<< HEAD
+
 
 I'am not in training
-=======
+
 in training
->>>>>>> 8d1c1118df821f5a168a97d8849e86a3517ec537
+
